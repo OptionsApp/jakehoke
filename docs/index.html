@@ -49,26 +49,22 @@
               ],
               "hasOccupation": {
                   "@type": "Occupation",
-                  "name": "Multi-disciplinary innovator",
-                  "description": "A cross-functional role blending AI, finance, and infrastructure to design innovative, high-impact solutions.",
+                  "name": "Multi‑disciplinary innovator",
+                  "description": "A cross‑functional role blending AI, finance, and infrastructure to design innovative, high‑impact solutions.",
                   "occupationLocation": {
-                    "@type": "Place",
-                    "address": {
-                      "@type": "PostalAddress",
-                      "addressRegion": "New Jersey",
-                      "addressCountry": "US"
-                    }
+                    "@type": "State",
+                    "name": "New Jersey"
                   },
-                  "estimatedSalary": {
-                    "@type": "MonetaryAmount",
-                    "currency": "USD",
-                    "value": {
-                      "@type": "QuantitativeValue",
+                  "estimatedSalary": [
+                    {
+                      "@type": "MonetaryAmountDistribution",
+                      "name": "base",
+                      "currency": "USD",
+                      "duration": "P1Y",
                       "minValue": 100000,
-                      "maxValue": 1000000,
-                      "unitText": "YEAR"
+                      "maxValue": 1000000
                     }
-                  }
+                  ]
                 },
               "address": {
                 "@type": "PostalAddress",
