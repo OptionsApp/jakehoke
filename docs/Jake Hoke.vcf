@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.6.2//EN
+N:Hoke;Jake;;;
+FN:Jake Hoke
+EMAIL;type=INTERNET;type=HOME;type=pref:jakehoke@hotmail.com
+TEL;type=CELL;type=VOICE;type=pref:(908) 295-0961
+item1.ADR;type=HOME;type=pref:;;;;NJ;;United States
+item1.X-ABADR:us
+X-SOCIALPROFILE;type=Snapchat;x-user=hokejake:x-apple:hokejake
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/https%3A//linkedin.com/in/jakehoke
+NOTE:Specialized in equities and derivatives.  Looking to open my own hedge fund in the future.
+item2.URL;type=pref:https://jakehoke.com
+item2.X-ABLabel:_$!<HomePage>!$_
+BDAY:2004-08-21
+END:VCARD
